@@ -1,15 +1,20 @@
 .navbar {
-  background-color: #000000;
+  background-color: white;
+  color: purple;
   padding: 1rem 2rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
 .navbar-brand {
   font-size: 1.5rem;
   font-weight: bold;
+}
+.brand-insert {
+  color: orangered;
+  padding: 0.5rem;
 }
 
 .navbar-links {

@@ -1,3 +1,6 @@
+body {
+  background: #86969c;
+}
 .main-content {
   flex: 1;
   padding: 2rem;
@@ -5,4 +8,7 @@
   width: 100%;
   display: flex;
   flex-direction: column;
+}
+a {
+  text-decoration: none;
 }
